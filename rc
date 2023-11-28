@@ -1,0 +1,4 @@
+REPO="https://raw.githubusercontent.com/valkry7/xxLTxx/MONSTER/"
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}LT/config/conf/rclone.conf"
